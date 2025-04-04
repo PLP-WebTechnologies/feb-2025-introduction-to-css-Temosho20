@@ -1,0 +1,22 @@
+/*Selector 1: Tag selector*/
+h1{
+  color: #00698f; /*blue-green color*/
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/*Selector 2: Class selector*/
+.image-style{
+  width: 300px;
+  height: 200px;
+  border: 1px;
+  margin: 20px;
+  padding: 10px;
+}
+
+/*Selector 3: ID selector*/
+#header-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff9900;
+}
